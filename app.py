@@ -7,7 +7,7 @@ user_data = {}
 
 def search_gemini_api(query):
     url = "https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-latest:generateContent"
-    api_key = "AIzaSyCDdqf40IMnE_PbNgl82Z0zWaZKlvhd8DM"
+    api_key = "gemini api key"
 
     headers = {
         'Content-Type': 'application/json',
